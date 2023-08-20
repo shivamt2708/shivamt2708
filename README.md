@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Tharwani</h1>
 <h3 align="center">Full stack developer</h3>
 
-- 🔭 I’m currently working on **meeting room using WebRtc**
+- 🔭 I have currently worked on **meeting room using WebRtc**
 
 - 🌱 I’m currently learning **backend development in rust**
 
