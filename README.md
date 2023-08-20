@@ -11,7 +11,6 @@
 
 - 📄 Know more about me at [https://www.linkedin.com/in/shivam-tharwani-140448213/](https://www.linkedin.com/in/shivam-tharwani-140448213/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
